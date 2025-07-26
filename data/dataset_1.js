@@ -86,8 +86,8 @@ const data = {
             "name": "Cement #100",
             "category": "Paints",
             "sku": "SKU_001",
-            "purchase_price": 460.34,
-            "sale_price": 699.99
+            "purchase_price": 460.34,  // За сколько магазин покупает товар
+            "sale_price": 699.99   // За сколько магазин планирует продавать товар
         },
         {
             "name": "Hammer #101",
